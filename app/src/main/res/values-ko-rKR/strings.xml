@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">높은</string>
+    <string name="str_english">영어</string>
+    <string name="str_uzbek">우즈벡</string>
+    <string name="str_korean">한국인</string>
+    <string name="str_japanese">일본어</string>
+
+
+    <plurals name="my_cats">
+        <item quantity="one">%s 고양이가 있습니다</item>
+        <item quantity="other">고양이 %s마리가 있습니다</item>
+        <item quantity="many">고양이 %s마리가 있습니다</item>
+    </plurals>
+</resources>

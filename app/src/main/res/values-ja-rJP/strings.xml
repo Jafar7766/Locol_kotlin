@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">高い</string>
+    <string name="str_english">英語</string>
+    <string name="str_uzbek">ウズベク語</string>
+    <string name="str_korean">韓国語</string>
+    <string name="str_japanese">日本</string>
+
+    <plurals name="my_cats">
+        <item quantity="one">％s猫がいます</item>
+        <item quantity="other">猫％sがあります</item>
+        <item quantity="many">猫％sがあります</item>
+    </plurals>
+</resources>

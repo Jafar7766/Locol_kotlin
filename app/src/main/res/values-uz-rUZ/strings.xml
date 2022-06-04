@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yuqori</string>
+    <string name="str_english">Ingliz tili</string>
+    <string name="str_uzbek">Uzbek tili</string>
+    <string name="str_korean">Koreys tili</string>
+    <string name="str_japanese">Yapon tili</string>
+
+    <plurals name="my_cats">
+        <item quantity="one">Menda %s ta mushugim bor</item>
+        <item quantity="other">I have %s mushuklarim bor</item>
+    </plurals>
+</resources>
